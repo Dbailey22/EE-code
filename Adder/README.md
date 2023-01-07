@@ -1,1 +1,1 @@
-Code in C For an arithmetic circuit
+Code in HDL for an arithmetic circuit
